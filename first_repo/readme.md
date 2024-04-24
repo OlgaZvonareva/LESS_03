@@ -26,7 +26,7 @@ first_repo
 
 git remote add original - 
 
-git remote show original
+git remote show original - 
 
 
 
